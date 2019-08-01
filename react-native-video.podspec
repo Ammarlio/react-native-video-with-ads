@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
     ss.dependency "react-native-video/Video"
     ss.dependency "SPTPersistentCache", "~> 1.1.0"
     ss.dependency "DVAssetLoaderDelegate", "~> 0.3.1"
-    ss.dependency "GoogleAds-IMA-iOS-SDK", "~> 3.7"
+    ss.dependency "GoogleAds-IMA-iOS-SDK", "~> 3.9"
 
     ss.source_files = "ios/VideoCaching/**/*.{h,m}"
     s.static_framework = true
